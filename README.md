@@ -42,7 +42,11 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
 ## 🧪 Test Results
-
+55
+44
+46
+48
+49
 ```
 # Paste your pytest output here, e.g.:
 # pytest tests/
